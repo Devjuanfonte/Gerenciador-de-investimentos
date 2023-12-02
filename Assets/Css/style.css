@@ -55,6 +55,9 @@ flex: 1;
     border-bottom: 3px #000 solid;
 }
 /*Inicio do css para aside, Box de ativos e porcentagem dos ativos na carteira  */
+#fii{
+    display: none;   /*Deixar o box de fiis apenas para quando clicar no botão  */
+}
 .asideContainer{
     height: auto;
     display: flex; 
